@@ -1,4 +1,4 @@
-# 01. Length of Last Word
+# 58. Length of Last Word
 
 ## Problem
 Given a string `s` containing words and spaces, return the length of the last word.
