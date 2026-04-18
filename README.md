@@ -21,14 +21,14 @@ April 2026
 ---
 
 ## 📊 Progress
-- Easy: 4
+- Easy: 5
 - Medium: 0
 - Hard: 0
 
 ---
 
 ## 🔥 Current Streak
-4 Day
+5 Day
 
 ---
 
