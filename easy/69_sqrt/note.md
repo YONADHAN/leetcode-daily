@@ -1,4 +1,4 @@
-Here’s your clean **`note.md`** for the `mySqrt` solution 👇
+
 
 ---
 
